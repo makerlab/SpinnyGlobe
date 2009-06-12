@@ -1,0 +1,95 @@
+//
+// History
+//
+// ------------------------------------------------------------
+// Rev 2 June 11 2009
+// ------------------------------------------------------------
+//
+// There still is not a good free globe other than this... so I kicked it forward a notch including:
+//
+//   * moving it to flex builder
+//   * fixing cross domain tiles
+//   * making it addressable from javascript
+//   * a number of small cosmetic cleanups
+//
+// ------------------------------------------------------------
+// Rev 1 September 1 2008
+// ------------------------------------------------------------
+//
+// Spinny Globe App
+// Open Source / Free / Public Domain
+// By Anselm Hook, Michael Gaio, Alain Bloch, Matthew Stadler, Stephanie Snyder, Paige Saez and others
+// This work was funded by Meedan and Call2Action and MakerLab - thanks so much we love ya!
+//
+// The hope is to provide a 'good enough' minimalist 3d zoomable globe in flash that others can build on.
+// Many people have written proprietary flash globes and the hope here is to reduce that duplicate effort.
+//
+// In general I've tried to generate the globe surface as a single polygon mesh to avoid slivers.
+// The poles are not well dealt with and I avoid those cases by limiting the camera pan and zoom for now.
+// In general there should be a 'pole cap' applied or a different rendering algorithm for the poles.
+//
+// The application also loads in XML content with markers and pop-up dialogs.  Line drawing is supported.
+//
+// There will hopefully be ongoing incremental improvements - see http://spinnyglobe.googlecode.com
+//
+//   - anselm sep 1 2008
+//
+//
+// --------------------------------------------------------
+// Rev 0 Notes...
+// --------------------------------------------------------
+//
+// http://www.mail-archive.com/geotools-gt2-users@lists.sourceforge.net/msg04243.html
+// http://docs.codehaus.org/display/GEOTDOC/Image+Mosaic+Plugin
+// http://geoserver.org/display/GEOSDOC/TileCache+Tutorial
+//
+// Bugs:
+//
+//  * polygons are not rendering in certain cases at zoom of 1 - this must be some kind of boundary failure. fixed.
+//  * polar caps and slivers
+//		* draw white or skip.
+//		- a filler polar cap must be drawn? doesn't seem critical yet.
+//		- i can still get slivers anyway; circumvented for now but should we unfold as we zoom or render more data?
+//		- should we not be so aggressive about only rendering a 3 x 3 ?  if we allowed more (if cached) it may help
+//	* remove arcball or apply constraint lock; fixed.
+//	* navigation jumps at some zooms; this turns out to be an event handling bug in flash; fixed.
+//	* button controls need to scale and a reset would be nice.  fixed.
+//  * when you drag outside the screen and let go of the mouse it think the mouse is still down. fixed.
+//  * the size of the globe has to be carefully chosen to avoid showing incomplete slivers. fixed.
+//  * on a reset the manipulator zoom was not reset so it would drag at the wrong speed. fixed.
+//	* draw lines
+//	* draw map markers, map popups, load map data
+//  * draw a logo
+//	* the logo leads to an url that leads to the makerlab site
+//  * click on a dot to close little dialog window as well as open it
+//  * tie into georss
+//	* cannot repeat zoom when you double click again and zoom again
+//  * the description is not showing up in georss
+//  x decluttering
+//		* different zoom levels for data
+//  ~ street level data
+//  x make pop mode conditional
+//  * start over portland oregon
+//	- improve line elevation in some cases and think about crossing prime meridian
+//	- double buffer by drawing two globes and switching after entirety has loaded
+//  - motion momentum
+//	- an animation sequencing engine for storytelling
+//  - compile with flex to let more people participate in coding
+//	- remoting for map data is failing - why???
+//  - don't open a new window but try use the same window... this is a problem with an iframe
+//  - double clicking is failing
+//	- a way to toggle between popup and hover information
+//	- the info is not revising the same window but instead is opening a new one... bad.
+//
+//  - server side map data generation strategy
+//	    * mapnik builds
+//	    - draw map data from open street maps using mapnik as a wms?
+//	    - draw base data from mapserver
+//	    - draw data behind tilecache
+//
+//  - server side unix issues on civicmaps.org:
+//		- boost won't build so mapnik wont built and mapnik cannot find built in boost
+//		- gdal 1.5 won't build due to weird error so bigtiff won't build - so mapserver too - a problem?
+//		- could try all on meedan hardware i guess?
+//
+
