@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+
+  <Placemark id="0" type ="1">
+    <name>Atlantis</name>
+    <Point>
+      <coordinates>0,0,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+
+  <Placemark id="1" type ="2">
+    <name>New York City</name>
+    <Point>
+      <coordinates>40.7833,-73.9667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  
+
+  <Placemark id="2" type ="3">
+    <name>Rome</name>
+    <Point>
+      <coordinates>41.9,12.45,0</coordinates>
+    </Point>
+  </Placemark>
+
+
+  <Placemark id="3" type ="4">
+    <name>Berlin</name>
+    <Point>
+      <coordinates>52.3114,13.2440,0</coordinates>
+    </Point>
+  </Placemark>
+
+
+  <Placemark id="4" type ="1">
+    <name>Los Angeles</name>
+    <Point>
+      <coordinates>34.0308,-118.1436,0</coordinates>
+    </Point>
+  </Placemark>
+
+
+  <Placemark id="5" type ="2">
+    <name>Tokyo</name>
+    <Point>
+      <coordinates>35.6667,139.75,0</coordinates>
+    </Point>
+  </Placemark>
+
+
+  <Placemark id="6" type ="3">
+    <name>Brussel</name>
+    <Point>
+      <coordinates>50.5013,-4.2203,0</coordinates>
+    </Point>
+  </Placemark>
+
+
+  <Placemark id="7" type ="4">
+    <name>Paris</name>
+    <Point>
+      <coordinates>48.8,2.3333,0</coordinates>
+    </Point>
+  </Placemark>
+
+
+  <Placemark id="8" type ="1">
+    <name>San Francisco</name>
+    <Point>
+      <coordinates>37.7833,-122.4333,0</coordinates>
+    </Point>
+  </Placemark>
+
+
+  <Placemark id="9" type ="2">
+    <name>Portland</name>
+    <Point>
+      <coordinates>45.6,-122.6,0</coordinates>
+    </Point>
+  </Placemark>
+
+
+  <Placemark id="10" type ="3">
+    <name>Toronto</name>
+    <Point>
+      <coordinates>43.2521,-79.1022,0</coordinates>
+    </Point>
+  </Placemark>
+
+
+
+</kml>
+
+
+

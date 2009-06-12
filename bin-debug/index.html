@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="swfobject.js"></script>
+<title>SpinnyGlobe</title>
+</head>
+<body>
+     <h1>SpinnyGlobe</h1>
+     <div id="SpinnyDiv">
+     Please install Flash.
+     </div>
+     <input type="button" value="Reset from Javascript" onclick="spinnyglobe_pos_to_flash(0,0,0);" /><br />
+</body>
+<script type="text/javascript">
+     function initialize() {
+         if( document.getElementById("SpinnyGlobe")) { return; }
+         var fo = new SWFObject("SpinnyGlobe.swf", "SpinnyGlobe", "400", "400", "8.0.15", "#ffffff", true);
+         fo.addParam("allowScriptAccess", "always");
+         fo.write("SpinnyDiv");
+     }
+     function spinnyglobe_pos_to_flash(lat,lon,zoom) {
+         var globe = document.getElementById("SpinnyGlobe");
+         globe.event_focus_appropriately_on(45,-122,0);
+     }
+     function spinnyglobe_pos_to_js(lat,lon,zoom) {
+         //alert(lat + " " + lon + " " + zoom );
+     }
+     initialize();
+</script>
+</html>

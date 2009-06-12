@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" 
+	xmlns:local="*" 
+	layout="absolute"
+	creationComplete="init()"
+>	
+	
+	<mx:Script>
+	<![CDATA[
+	
+		import fl.video.*;
+		
+		public function init(): void
+		{
+			player.pb.source = "the_spiderwick_chronicles-tsr_h.640_VP6_768K.flv";
+			player.pb.addEventListener(VideoEvent.READY, readyHandler);			
+		}
+		
+		private function readyHandler( e:VideoEvent ):void
+		{
+			// just to show that events work...
+			trace("ready");
+		}
+	
+	]]>
+	</mx:Script>
+	
+<mx:Button x="67" y="21" label="Play" click="player.pb.play();"/>
+<mx:Button x="136" y="21" label="Pause" click="player.pb.pause();"/>
+
+<mx:HBox x="67" y="71">	
+	<local:FLVpb id="player"/>
+</mx:HBox>
+</mx:Application>
+
+
+
+
+

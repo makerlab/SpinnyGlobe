@@ -1,0 +1,17 @@
+.svn
+solr/**/*
+log/*.log
+tmp/**/*
+doc/api
+doc.app
+config/settings.yml
+config/database.yml
+nbproject
+nbproject/*
+.git/config
+*.swp
+db/db_development
+public/system/photos/*
+public/photos/*
+public/system
+db/schema.rb
