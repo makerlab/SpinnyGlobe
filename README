@@ -92,4 +92,43 @@
 //		- gdal 1.5 won't build due to weird error so bigtiff won't build - so mapserver too - a problem?
 //		- could try all on meedan hardware i guess?
 //
+// -----------------------------------
+// MORE NOTES AND COMMENTS
+// -----------------------------------
+
+
+
+Spinny Globes for flash, the iphone and native platforms. Similar in theme to NASA WorldWind? and Google Earth.
+
+A 3d globe with wms tile support and arc-ball based rotation.
+
+There are three targets for this source code 1) flash 2) opengl 3) iphone native app.
+
+1) Flash is a challenging target. Historically it has been somewhat difficult to show a 3d globe in the browser let alone anything in 3d; solutions such as java applets are not universally supported, and flash itself although well supported has had no 3d support. Papervision3d is a lightweight pure source code flash component that we leverage to make it possible to easily deliver a 3d globe in the browser. This is hopefully a foundation for variety of projects, and being open source it can hopefully be improved by the community.
+
+Here is a running example of an earlier rev of the flash version of this code:
+
+    http://hook.org/anselm/projects/20070901_MeadanGlobe/globe/bin/globe.html 
+
+And my home page has it too currently:
+
+    http://hook.org 
+
+And so does Suddenly (whom I made it for for fun):
+
+    http://suddenly.org 
+
+And a more recent version:
+
+    http://civicmaps.org/spinnyglobe/flash/bin/spinnyglobe.html 
+
+2) The OpenGL version is quite simple and a good development reference point although of course not competitive with NASA WorldWind? or Google Earth. There is a sample port of the same code to cygwin under windows under opengl as well in /opengl .
+
+3) The iPhone version is more preliminary - the hope is to improve it with community support. I've built an installer so you can install it via community sources like any app. To do this you first crack your phone (ziphone.org) then goto your installer, and goto sources within that, and then add a new source - that new source will be http://meadanglobe.googlecode.com/files/iphone.xml. When typing in the iphone ui it will try to capitalize iPhone.XML - reject that suggestion. Now you will have the globe as a source. Goto your installer main menu. Goto Multimedia. Goto Globe. Install that. Now it will appear as an icon on your iphone desktop. Congradulations. All you can do right now is rotate it. It does not fetch textures dynamically. The sun position is static right now. Please feel free to help out. For the source code see /iphone. This runs on the OpenGLES profile. An executable is included.
+
+Here is a screen-shot of the iphone opengl native version:
+
+    http://www.flickr.com/photos/anselmhook/1747152617/in/set-72157602696188420/ 
+
+This is a volunteer open source effort with support provided by Meedan and Call2Action?.
 
