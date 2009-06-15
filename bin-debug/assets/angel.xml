@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:kml="http://earth.google.com/kml/2.2" version="2.0">
+  <Placemark>
+    <name>@kenkeiter what line is that error on? that is different from what i get - i get 'error calling method on npobject'</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 05:14:09 +0000</pubDate>
+    <guid>2123520206</guid>
+    <id>146</id>
+    <Point>
+      <coordinates>
+51.17, -115.57, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>145</relations>
+  </Placemark>
+  <Placemark>
+    <name>anselm</name>
+    <description>at home in PDX and Alberta and SF, love hiking, artist, travel, talking, http://makerlab.org, http://wherecamp.org, hacker, silly, dry, maudlin, moral, canook</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:50 +0000</pubDate>
+    <guid>812567</guid>
+    <id>165</id>
+    <Point>
+      <coordinates>
+51.17, -115.57, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations>173 174 175 176 177 178 179 166 167 168 169 170 171 172 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 285</relations>
+  </Placemark>
+  <Placemark>
+    <name>Richard_Florida</name>
+    <description>Economist, Author, Professor, Researcher</description>
+    <pubDate>Fri, 12 Jun 2009 20:55:37 +0000</pubDate>
+    <guid>17179368</guid>
+    <id>285</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>the first rule of secretcamp is that you don't talk about secretcamp</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:33 +0000</pubDate>
+    <guid>2120506317</guid>
+    <id>284</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>my friend craig recommends http://bit.ly/G6WMr
+ re-enchantment of everyday life</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:32 +0000</pubDate>
+    <guid>2122990149</guid>
+    <id>282</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>paige is on her way tomorrow! http://bit.ly/rdLwc</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:32 +0000</pubDate>
+    <guid>2122587545</guid>
+    <id>283</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>@flowersbyfarha its a driving me nuts for sure - i 'd give it massage if it helped</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:31 +0000</pubDate>
+    <guid>2123479638</guid>
+    <id>280</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>Can somebody Please Tell Me Why can I not call flash from javascript in this example : http://makerlab.org/wtf/index.html 'NPObject Error'??</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:31 +0000</pubDate>
+    <guid>2123417693</guid>
+    <id>281</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>@lokkju there is a cross domain security error as well because i don't know how to let civicmaps.org let anybody talk to it by flash...</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:30 +0000</pubDate>
+    <guid>2123511192</guid>
+    <id>279</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>i should clarify that the bug i am trying to solve is when one clicks 'send' - not the crossdomain png fetching bug - i'm ignoring that one</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:29 +0000</pubDate>
+    <guid>2123621797</guid>
+    <id>277</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>@flowersbyfarha well i'm certain something is wrong with the flash; another flash blob i tried did work - just not the one i made</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:29 +0000</pubDate>
+    <guid>2123547445</guid>
+    <id>278</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>Reva says that text read by reflected light is processed by a more critical path of the brain. As opposed to a screen. Are we less critical?</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:28 +0000</pubDate>
+    <guid>2125201099</guid>
+    <id>275</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>@randometc thanks!</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:28 +0000</pubDate>
+    <guid>2124514581</guid>
+    <id>276</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>@luckiestmonkey well aren't we popular? thanks 4 the follow! hows SF life?</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:27 +0000</pubDate>
+    <guid>2125761448</guid>
+    <id>274</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>@flowersbyfarha yes - it is perfect now ... see http://makerlab.org/wtf/index.html ... cross-domain.xml and crossdomain.xml and js gateways!</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:27 +0000</pubDate>
+    <guid>2125871656</guid>
+    <id>273</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>@luckiestmonkey just posted http://github.com/anselm/SpinnyGlobe migrating away from googlecode... did you feel the bits race by?</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:26 +0000</pubDate>
+    <guid>2125889509</guid>
+    <id>272</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>urgggggg work</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:25 +0000</pubDate>
+    <guid>2126981162</guid>
+    <id>270</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>@flowersbyfarha you can drag and rotate it...  thats the point... @meedan will be adding street level data in arabic soon.</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:25 +0000</pubDate>
+    <guid>2125940780</guid>
+    <id>271</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>!@thebanffcentre I'll be showing my residency project in JPL on the second floor today from 3 to 6 - c'mon down!</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:24 +0000</pubDate>
+    <guid>2132840550</guid>
+    <id>268</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>@flowersbyfarha its funny to hear your perspective; i guess i see the globe itself as incidental - but clearly its own issues distract.</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:24 +0000</pubDate>
+    <guid>2132828532</guid>
+    <id>269</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>Did I mention my sweet brilliant girl @paigesaez will be here today?</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:23 +0000</pubDate>
+    <guid>2132975390</guid>
+    <id>267</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>now the final push for todays presentation.  all internets off.</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:27:23 +0000</pubDate>
+    <guid>2133196361</guid>
+    <id>266</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>post</kind>
+    <relations>165</relations>
+  </Placemark>
+  <Placemark>
+    <name>akacolleen</name>
+    <description>O'Reilly Editrix. Martini Maker. Not Canadian Actress. As far as I know.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:36 +0000</pubDate>
+    <guid>12808852</guid>
+    <id>245</id>
+    <Point>
+      <coordinates>
+38.0, -121.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>akumar</name>
+    <description>VP Product @Dapper - realtime, semantic and deep web. Previously built Yahoo! SearchMonkey. President, IIT Delhi Alumni Association (North America)</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:46 +0000</pubDate>
+    <guid>14135545</guid>
+    <id>265</id>
+    <Point>
+      <coordinates>
+37.77, -122.45, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>dtapscott</name>
+    <description>Author, Consulting Company CEO, Hammond B3 player in rock band, striving to live a principled life of consequence. </description>
+    <pubDate>Fri, 12 Jun 2009 19:22:46 +0000</pubDate>
+    <guid>14128528</guid>
+    <id>264</id>
+    <Point>
+      <coordinates>
+43.65, -79.38, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>demandrichard</name>
+    <description>Co-Founder, Chrm and CEO, Demand Media</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:45 +0000</pubDate>
+    <guid>15744118</guid>
+    <id>263</id>
+    <Point>
+      <coordinates>
+34.01, -118.49, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>aresnick</name>
+    <description>working to start a different kind of university</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:45 +0000</pubDate>
+    <guid>6189042</guid>
+    <id>262</id>
+    <Point>
+      <coordinates>
+42.38, -71.12, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>HilaryP</name>
+    <description>developer, blogger, microsoft student programs, student educator, tech enthusiast, mom, yogi, foodie, buckeye</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:44 +0000</pubDate>
+    <guid>9196162</guid>
+    <id>261</id>
+    <Point>
+      <coordinates>
+30.6, -96.31, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>clairecmc</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:22:44 +0000</pubDate>
+    <guid>16160352</guid>
+    <id>260</id>
+    <Point>
+      <coordinates>
+37.333, -90.033, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>josetteg</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:22:43 +0000</pubDate>
+    <guid>16617533</guid>
+    <id>259</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>AndrewPWilson</name>
+    <description>Member of HHS social media team </description>
+    <pubDate>Fri, 12 Jun 2009 19:22:43 +0000</pubDate>
+    <guid>19771577</guid>
+    <id>258</id>
+    <Point>
+      <coordinates>
+38.895, -77.0367, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>johnmaeda</name>
+    <description>President of Rhode Island School of Design (RISD), est. 1877, creative college in the US. Author of the Laws of Simplicity and other books. MIT grad '88+'89.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:42 +0000</pubDate>
+    <guid>15414807</guid>
+    <id>257</id>
+    <Point>
+      <coordinates>
+41.82, -71.42, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>thejointstaff</name>
+    <description>Chairman of the Joint Chiefs of Staff, Adm. Mike Mullen</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:42 +0000</pubDate>
+    <guid>28576135</guid>
+    <id>256</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>govdigest</name>
+    <description>top gov't news</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:41 +0000</pubDate>
+    <guid>30051156</guid>
+    <id>255</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>jsteeleeditor</name>
+    <description>Acquisitions Editor at O'Reilly Media, Inc.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:41 +0000</pubDate>
+    <guid>14209229</guid>
+    <id>254</id>
+    <Point>
+      <coordinates>
+40.72, -74.17, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>pedeveloper</name>
+    <description>C# Community Lead, entrepeneur, new tech/media geek</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:40 +0000</pubDate>
+    <guid>19194595</guid>
+    <id>253</id>
+    <Point>
+      <coordinates>
+-33.96, 25.59, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>zittrain</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:22:40 +0000</pubDate>
+    <guid>1039531</guid>
+    <id>252</id>
+    <Point>
+      <coordinates>
+37.56, -122.31, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>cotweet</name>
+    <description>CoTweet is How Business Does Twitter. Need help? follow @cotweet_support.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:39 +0000</pubDate>
+    <guid>17372386</guid>
+    <id>251</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>betsyatoreilly</name>
+    <description>Marketing professional in the publishing business</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:39 +0000</pubDate>
+    <guid>15174809</guid>
+    <id>250</id>
+    <Point>
+      <coordinates>
+37.2502, -119.751, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>jeancase</name>
+    <description>social activist</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:38 +0000</pubDate>
+    <guid>17839720</guid>
+    <id>249</id>
+    <Point>
+      <coordinates>
+38.895, -77.0367, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>christinelu</name>
+    <description>China. Entrepreneur. Foodie. Geek Girl. Mom. Creative Commons. Sharism. Go Green Initiative. M1NT Shanghai. TEDxShanghai. Geeks On A Plane. Cilantro Media</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:37 +0000</pubDate>
+    <guid>7782442</guid>
+    <id>248</id>
+    <Point>
+      <coordinates>
+34.0522, -118.243, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>blakeross</name>
+    <description>Cofounder of Firefox, currently at Facebook</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:37 +0000</pubDate>
+    <guid>15228003</guid>
+    <id>247</id>
+    <Point>
+      <coordinates>
+37.4, -122.14, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>derekg</name>
+    <description>yes. </description>
+    <pubDate>Fri, 12 Jun 2009 19:22:36 +0000</pubDate>
+    <guid>747083</guid>
+    <id>246</id>
+    <Point>
+      <coordinates>
+40.7142, -74.0064, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>arielwaldman</name>
+    <description>Digital Anthropologist. Founder of Spacehack.org and CupcakeCamp. Engadget columnist. Previous NASA program coordinator, Pownce community manager.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:35 +0000</pubDate>
+    <guid>814304</guid>
+    <id>244</id>
+    <Point>
+      <coordinates>
+37.77, -122.45, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>oreillylabs</name>
+    <description>O'Reilly's alpha, beta, and gamma projects.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:35 +0000</pubDate>
+    <guid>19504825</guid>
+    <id>243</id>
+    <Point>
+      <coordinates>
+38.4021, -122.824, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>NiemanLab</name>
+    <description>The Nieman Journalism Lab at Harvard University: Trying to figure out the future of news.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:34 +0000</pubDate>
+    <guid>15865878</guid>
+    <id>242</id>
+    <Point>
+      <coordinates>
+42.38, -71.12, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>venturehacks</name>
+    <description>The business school for entrepreneurs. By @nivi.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:34 +0000</pubDate>
+    <guid>11620792</guid>
+    <id>241</id>
+    <Point>
+      <coordinates>
+37.77, -122.45, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>petermeyers</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:22:33 +0000</pubDate>
+    <guid>18997385</guid>
+    <id>240</id>
+    <Point>
+      <coordinates>
+40.7142, -74.0064, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>rashmi</name>
+    <description>CEO &amp; Cofounder - SlideShare</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:33 +0000</pubDate>
+    <guid>610873</guid>
+    <id>239</id>
+    <Point>
+      <coordinates>
+37.77, -122.45, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <Placemark>
+    <name>StephAgresta</name>
+    <description>Stephanie Agresta is EVP, Global Director of Digital Strategy &amp; Social Media at Porter Novelli. Co-Founder of TechSet &amp; UltimateRaceDay. InternetGeekGirl.com</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:32 +0000</pubDate>
+    <guid>2737751</guid>
+    <id>238</id>
+    <Point>
+      <coordinates>
+0.0, 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </Placemark>
+  <item>
+    <name>endlessCities</name>
+    <description>architect - Interested in sustainability, digitalisation, web 2.0 and cutting edge relations in between arts, architecture and technology... theory vs. practice</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:57 +0000</pubDate>
+    <guid>15770684</guid>
+    <id>173</id>
+    <Point>
+      <coordinates>
+55.68 12.57, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>Objey</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:21:58 +0000</pubDate>
+    <guid>44572979</guid>
+    <id>174</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>kliger</name>
+    <description>online + inworld / urban + nomad / prims + pixels / arg + aug / fab + gen / link + tag / meta + semantic / plug + play / real-time + async</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:58 +0000</pubDate>
+    <guid>813453</guid>
+    <id>175</id>
+    <Point>
+      <coordinates>
+48.86 2.34, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>pekingspring</name>
+    <description>Professional cynic but my heart's not in it. Dr. of astronomy, evil web developer, chardonnay-sipping lefty.</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:59 +0000</pubDate>
+    <guid>19730041</guid>
+    <id>176</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>benfu</name>
+    <description>down and to the left.</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:59 +0000</pubDate>
+    <guid>628973</guid>
+    <id>177</id>
+    <Point>
+      <coordinates>
+37.77 -122.45, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>greenmuseum</name>
+    <description>Co-Author: The Green Museum; Author: Is Your Museum Grant-Ready? Museum Consultant: sustainability, public currency, grants.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:00 +0000</pubDate>
+    <guid>20719539</guid>
+    <id>178</id>
+    <Point>
+      <coordinates>
+38.77 -76.07, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>libbymiller</name>
+    <description>beeb / notube</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:00 +0000</pubDate>
+    <guid>7169162</guid>
+    <id>179</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>mayagrazia</name>
+    <description>Society, Sociology,Culture, Arts</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:53 +0000</pubDate>
+    <guid>35812190</guid>
+    <id>166</id>
+    <Point>
+      <coordinates>
+60.0 -96.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>mashable</name>
+    <description>The hottest Twitter news, Twitter tips and Twitter help. Plus, the best social media links around!</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:54 +0000</pubDate>
+    <guid>972651</guid>
+    <id>167</id>
+    <Point>
+      <coordinates>
+56.0 -4.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>flowersbyfarha</name>
+    <description>I make &amp;amp; sell flowers from ribbons &amp;amp; beaded stickpins for fashion accessories; also love folkloric dance &amp;amp; music, &amp;amp; books! </description>
+    <pubDate>Fri, 12 Jun 2009 19:21:54 +0000</pubDate>
+    <guid>14819293</guid>
+    <id>168</id>
+    <Point>
+      <coordinates>
+44.0001 -120.501, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>mattxbart</name>
+    <description>Geospatial Web Developer</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:55 +0000</pubDate>
+    <guid>9633572</guid>
+    <id>169</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>scottknowles</name>
+    <description>Search consultant - serial entrepreneur, technologist, strategist, start ups, ayurvedic medicine, simple living high thinking</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:55 +0000</pubDate>
+    <guid>8688832</guid>
+    <id>170</id>
+    <Point>
+      <coordinates>
+45.54 -122.66, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>sexinstilettos</name>
+    <description>adult performer. model. sarcastic cunt. running around naked and tipsy.</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:56 +0000</pubDate>
+    <guid>17605765</guid>
+    <id>171</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>elatable</name>
+    <description>Product @ Google</description>
+    <pubDate>Fri, 12 Jun 2009 19:21:57 +0000</pubDate>
+    <guid>13041</guid>
+    <id>172</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>dtboyd</name>
+    <description>VP of Sales/Strategy @eROI: Saving pixels one at a time with Holy Water and a 16 Gage Nail.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:01 +0000</pubDate>
+    <guid>7739582</guid>
+    <id>180</id>
+    <Point>
+      <coordinates>
+45.54 -122.66, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>katehartman</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:22:01 +0000</pubDate>
+    <guid>14521359</guid>
+    <id>181</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>msamye</name>
+    <description>Life rocks everyday of the week. </description>
+    <pubDate>Fri, 12 Jun 2009 19:22:02 +0000</pubDate>
+    <guid>1690731</guid>
+    <id>182</id>
+    <Point>
+      <coordinates>
+45.54 -122.66, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>atduskgreg</name>
+    <description>amateur autoharp-playing robot arms. I start NYU ITP in the fall</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:02 +0000</pubDate>
+    <guid>26853</guid>
+    <id>183</id>
+    <Point>
+      <coordinates>
+45.54 -122.66, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>portlandten</name>
+    <description>Growing 10 $1MM tech startups in Portland, OR by 10/2010.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:03 +0000</pubDate>
+    <guid>20408685</guid>
+    <id>184</id>
+    <Point>
+      <coordinates>
+45.54 -122.66, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>brainpicker</name>
+    <description>Digital Curaggregator &#8211; cultural curator aggregating the world's eclectic interestingness. Semi-secret geek obsessed with smart design, sustainability &amp; TED</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:04 +0000</pubDate>
+    <guid>9207632</guid>
+    <id>185</id>
+    <Point>
+      <coordinates>
+42.75 23.3333, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>imran</name>
+    <description>{ silicon:ali }</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:04 +0000</pubDate>
+    <guid>35853</guid>
+    <id>186</id>
+    <Point>
+      <coordinates>
+53.81 -1.55, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>MuseumModernArt</name>
+    <description>Victor Samra (Digital Media/Marketing @ MoMA, aka @vsamra3) at the easel</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:05 +0000</pubDate>
+    <guid>15057943</guid>
+    <id>187</id>
+    <Point>
+      <coordinates>
+40.7142 -74.0064, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>abelperez</name>
+    <description>&#9733; Entrepreneur in Software Automation and Marketing Technologies &#9733; Java, C#, PHP, Ruby, Python, Scala, Erlang, F#, C++, SEO, PPC, Social Media, Voice, Video</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:05 +0000</pubDate>
+    <guid>14904001</guid>
+    <id>188</id>
+    <Point>
+      <coordinates>
+34.0522 -118.243, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>saintanselm</name>
+    <description>Saint Anselm College is a nationally ranked Benedictine Catholic, liberal arts college located in Manchester, N.H.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:06 +0000</pubDate>
+    <guid>5972532</guid>
+    <id>189</id>
+    <Point>
+      <coordinates>
+42.98 -71.44, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>writerauthorart</name>
+    <description>Writer / Author / Artist / Musician - Nathalie Kyrou - Check her art and work out at www.kyrou.com</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:06 +0000</pubDate>
+    <guid>35524263</guid>
+    <id>190</id>
+    <Point>
+      <coordinates>
+34.68 33.05, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>rrmutt</name>
+    <description>impersonating a neurotypical</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:07 +0000</pubDate>
+    <guid>14344011</guid>
+    <id>191</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>playspymaster</name>
+    <description>Assembling our task force. Follow to receive further instructions about your mission.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:07 +0000</pubDate>
+    <guid>40971936</guid>
+    <id>192</id>
+    <Point>
+      <coordinates>
+-51.75 -59.1667, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>jshardison</name>
+    <description>i like technology, middlebrow art &amp; ice cream. I started doing what the kids call today social media for the recording industry in 1998. @mcbru is my home.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:08 +0000</pubDate>
+    <guid>14413721</guid>
+    <id>193</id>
+    <Point>
+      <coordinates>
+45.54 -122.66, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>LonelyBob</name>
+    <description>Video Games, GNU/Linux, Computers, Japan, and other interesting stuff.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:08 +0000</pubDate>
+    <guid>14235705</guid>
+    <id>194</id>
+    <Point>
+      <coordinates>
+35.87 139.64, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>appkineticarts</name>
+    <description>Applied Kinetic Arts</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:09 +0000</pubDate>
+    <guid>43204038</guid>
+    <id>195</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>RandomEtc</name>
+    <description>ONLY ADDING PEOPLE I KNOW IN REAL LIFE. Sorry to shout, BUT THAT'S THE TRUTH.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:09 +0000</pubDate>
+    <guid>13495</guid>
+    <id>196</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>dvrogers</name>
+    <description>Inch Mail Artisan, Not On Credit, Add-Art User, Urban Oil Consumer, Futureshop Retailer, Seismic Fault ..</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:10 +0000</pubDate>
+    <guid>14685190</guid>
+    <id>197</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>annbid</name>
+    <description>I love storytelling, film, books, speech, CMC, psychology and general science. Interaction designer at bokus.com (bookshop). I like singing too.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:11 +0000</pubDate>
+    <guid>1724661</guid>
+    <id>198</id>
+    <Point>
+      <coordinates>
+59.33 18.07, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>yql</name>
+    <description>Offical Yahoo Query Language Tweets</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:11 +0000</pubDate>
+    <guid>21425648</guid>
+    <id>199</id>
+    <Point>
+      <coordinates>
+37.39 -122.03, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>banffette</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:22:11 +0000</pubDate>
+    <guid>42645641</guid>
+    <id>200</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>bluepaperplane</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:22:12 +0000</pubDate>
+    <guid>15401954</guid>
+    <id>201</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>stevenjayl</name>
+    <description>I'm writing as fast as I can.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:13 +0000</pubDate>
+    <guid>808627</guid>
+    <id>202</id>
+    <Point>
+      <coordinates>
+40.7142 -74.0064, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>bradfitz</name>
+    <description>hacker, drinker.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:13 +0000</pubDate>
+    <guid>650013</guid>
+    <id>203</id>
+    <Point>
+      <coordinates>
+37.77 -122.45, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>facebookbrandee</name>
+    <description>i do pr for facebook.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:14 +0000</pubDate>
+    <guid>14158830</guid>
+    <id>204</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>dannysullivan</name>
+    <description>Editor of SearchEngineLand.com, covering Google, SEO, PPC &amp;amp; all aspects of search engines and search marketing.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:14 +0000</pubDate>
+    <guid>858051</guid>
+    <id>205</id>
+    <Point>
+      <coordinates>
+33.61 -117.87, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>christine</name>
+    <description>Early-stage investor at First Round Capital. Tribal kitchen goddess.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:15 +0000</pubDate>
+    <guid>3980</guid>
+    <id>206</id>
+    <Point>
+      <coordinates>
+37.77 -122.45, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>TomRaftery</name>
+    <description>Lead Analyst at GreenMonk, the Energy and Sustainability practice of industry analyst firm RedMonk.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:15 +0000</pubDate>
+    <guid>797835</guid>
+    <id>207</id>
+    <Point>
+      <coordinates>
+37.38 -5.99, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>fbase</name>
+    <description>Freebase news and commentary</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:16 +0000</pubDate>
+    <guid>14748668</guid>
+    <id>208</id>
+    <Point>
+      <coordinates>
+37.77 -122.45, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>sarawinge</name>
+    <description>On the Radar team at O'Reilly</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:17 +0000</pubDate>
+    <guid>2333071</guid>
+    <id>209</id>
+    <Point>
+      <coordinates>
+44.6 33.53, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>radar</name>
+    <description>O'Reilly Media's group blog about emerging technologies including Web 2.0, location, open source, ambient computing, mobile, web operations, and more.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:17 +0000</pubDate>
+    <guid>14984090</guid>
+    <id>210</id>
+    <Point>
+      <coordinates>
+38.4021 -122.824, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>valdiskrebs</name>
+    <description>Network analysis expert, consultant, coach, educator, researcher, author, software designer, ambient electronic musician, photographer. Sveiks!</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:18 +0000</pubDate>
+    <guid>15415778</guid>
+    <id>211</id>
+    <Point>
+      <coordinates>
+41.48 -81.68, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>andrew_chen</name>
+    <description>entrepreneur, online ads, venture capital, social media, game design!</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:18 +0000</pubDate>
+    <guid>3283901</guid>
+    <id>212</id>
+    <Point>
+      <coordinates>
+37.4 -122.14, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>anildash</name>
+    <description>An authority on lolcats, autotune, software, NYC, the web and Prince. And according to the Houston Chronicle, I'm a 'legendary blogger'. So it must be true.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:19 +0000</pubDate>
+    <guid>36823</guid>
+    <id>213</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>IBMResearch</name>
+    <description>IBM's Research Division</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:19 +0000</pubDate>
+    <guid>16319797</guid>
+    <id>214</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>LindaStone</name>
+    <description>twitter=continuous partial mindcasting, continuous partial friendship, continuous partial connections</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:20 +0000</pubDate>
+    <guid>16721263</guid>
+    <id>215</id>
+    <Point>
+      <coordinates>
+47.62 -122.35, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>johnperrybarlow</name>
+    <description>I co-founded EFF, wrote songs for the Dead, ranched in Wyoming for 17.  A weird father, a good friend, and an excellent ex.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:20 +0000</pubDate>
+    <guid>14274132</guid>
+    <id>216</id>
+    <Point>
+      <coordinates>
+40.0 -100.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>Groklaw</name>
+    <description>When you want to know more but don't know where to look</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:21 +0000</pubDate>
+    <guid>16485096</guid>
+    <id>217</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>liamcasey</name>
+    <description>www.crunchbase.com/person/liam-casey</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:21 +0000</pubDate>
+    <guid>17331549</guid>
+    <id>218</id>
+    <Point>
+      <coordinates>
+22.53 114.13, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>benjaminblack</name>
+    <description>this is the account where i act all nice and stuff.  b6n is the other one.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:22 +0000</pubDate>
+    <guid>16031975</guid>
+    <id>219</id>
+    <Point>
+      <coordinates>
+47.62 -122.35, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>vanessafox</name>
+    <description>sometimes literary</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:23 +0000</pubDate>
+    <guid>1699751</guid>
+    <id>220</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>sciam</name>
+    <description>Scientific American Magazine and online, over 150 years of science news</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:23 +0000</pubDate>
+    <guid>14647570</guid>
+    <id>221</id>
+    <Point>
+      <coordinates>
+40.7142 -74.0064, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>bobgourley</name>
+    <description>Bob Gourley blogs at CTOvision.com and is the CTO and founder of Crucial Point LLC</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:24 +0000</pubDate>
+    <guid>14554287</guid>
+    <id>222</id>
+    <Point>
+      <coordinates>
+38.75 -77.49, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>THE_REAL_SHAQ</name>
+    <description>VERY QUOTATIOUS, I PERFORM RANDOM ACTS OF SHAQNESS</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:24 +0000</pubDate>
+    <guid>17461978</guid>
+    <id>223</id>
+    <Point>
+      <coordinates>
+33.54 -112.07, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>cote</name>
+    <description>'Mockingbird sings in the middle of the night, all his songs are stolen so he hides.' Industry analyst with RedMonk. Cf. DrunkAndRetired.com.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:25 +0000</pubDate>
+    <guid>53953</guid>
+    <id>224</id>
+    <Point>
+      <coordinates>
+40.62 -74.42, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>scifri</name>
+    <description>We make a science radio program heard on NPR and create science content for the web. Got ideas? Write us @scifri and tweet your questions during the show.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:25 +0000</pubDate>
+    <guid>16817883</guid>
+    <id>225</id>
+    <Point>
+      <coordinates>
+40.7142 -74.0064, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>hacks</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:22:26 +0000</pubDate>
+    <guid>1533431</guid>
+    <id>226</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>mcuban</name>
+    <description></description>
+    <pubDate>Fri, 12 Jun 2009 19:22:26 +0000</pubDate>
+    <guid>16228398</guid>
+    <id>227</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>gandhi_bot</name>
+    <description>Quotes from the Mahatma, always served fresh !</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:27 +0000</pubDate>
+    <guid>14628238</guid>
+    <id>228</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>chr1sa</name>
+    <description>Wired, Long Tail, Free, DIY Drones, BookTour</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:27 +0000</pubDate>
+    <guid>17595439</guid>
+    <id>229</id>
+    <Point>
+      <coordinates>
+37.87 -122.27, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>NASA</name>
+    <description>News from NASA</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:28 +0000</pubDate>
+    <guid>11348282</guid>
+    <id>230</id>
+    <Point>
+      <coordinates>
+0.0 0.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>terrie</name>
+    <description>Permie, birder, blogger, writer, CrowdVine acct. mgr. Follow me also at @permiedotnet for posts about permaculture.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:28 +0000</pubDate>
+    <guid>12041</guid>
+    <id>231</id>
+    <Point>
+      <coordinates>
+38.4021 -122.824, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>policymonk</name>
+    <description>Prof at National Defense Univ. Focus on IT, national security. Wife + 2 kids. Do yoga and aikido, play guitar.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:29 +0000</pubDate>
+    <guid>18142304</guid>
+    <id>232</id>
+    <Point>
+      <coordinates>
+38.895 -77.0367, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>PaulDunay</name>
+    <description>On a Mission to find Innovative Ideas for B2B Marketers</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:29 +0000</pubDate>
+    <guid>2673451</guid>
+    <id>233</id>
+    <Point>
+      <coordinates>
+40.7142 -74.0064, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>nytimes</name>
+    <description>Where the Conversation Begins.  Front page stories from NYTimes.com, the web site of The New York Times.</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:30 +0000</pubDate>
+    <guid>807095</guid>
+    <id>234</id>
+    <Point>
+      <coordinates>
+40.7142 -74.0064, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>Pogue</name>
+    <description>Tech columnist, NY Times; CNBC tech dude; Missing Manuals creator, dad of 3!</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:31 +0000</pubDate>
+    <guid>9534522</guid>
+    <id>235</id>
+    <Point>
+      <coordinates>
+40.0 -100.0, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>larrybrilliant</name>
+    <description>Philanthropedemiologist, President, Skoll Urgent Threats Fund; advisor to Jeff Skoll and Google</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:31 +0000</pubDate>
+    <guid>17297668</guid>
+    <id>236</id>
+    <Point>
+      <coordinates>
+37.77 -122.45, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+  <item>
+    <name>noahgift</name>
+    <description>author, consultant, python programmer, marathon runner/fitness freak, musician</description>
+    <pubDate>Fri, 12 Jun 2009 19:22:32 +0000</pubDate>
+    <guid>8569472</guid>
+    <id>237</id>
+    <Point>
+      <coordinates>
+-41.28 174.78, 0      </coordinates>
+    </Point>
+    <kind>user</kind>
+    <relations></relations>
+  </item>
+</kml>

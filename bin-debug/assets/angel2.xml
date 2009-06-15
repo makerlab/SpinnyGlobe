@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss">
+  <channel>
+    <title>angel</title>
+    <link>http://angel.makerlab.org</link>
+    <description>query results</description>
+    <language>en-us</language>
+    <item>
+      <title>@kenkeiter what line is that error on? that is different from what i get - i get 'error calling method on npobject'</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 05:14:09 +0000</pubDate>
+      <guid>2123520206</guid>
+      <id>146</id>
+      <georss:point>
+51.17 -115.57      </georss:point>
+      <kind>post</kind>
+      <relations>145</relations>
+    </item>
+    <item>
+      <title>anselm</title>
+      <description>at home in PDX and Alberta and SF, love hiking, artist, travel, talking, http://makerlab.org, http://wherecamp.org, hacker, silly, dry, maudlin, moral, canook</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:50 +0000</pubDate>
+      <guid>812567</guid>
+      <id>165</id>
+      <georss:point>
+51.17 -115.57      </georss:point>
+      <kind>user</kind>
+      <relations>173 174 175 176 177 178 179 166 167 168 169 170 171 172 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265</relations>
+    </item>
+    <item>
+      <title>the first rule of secretcamp is that you don't talk about secretcamp</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:33 +0000</pubDate>
+      <guid>2120506317</guid>
+      <id>284</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>my friend craig recommends http://bit.ly/G6WMr
+ re-enchantment of everyday life</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:32 +0000</pubDate>
+      <guid>2122990149</guid>
+      <id>282</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>paige is on her way tomorrow! http://bit.ly/rdLwc</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:32 +0000</pubDate>
+      <guid>2122587545</guid>
+      <id>283</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>@flowersbyfarha its a driving me nuts for sure - i 'd give it massage if it helped</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:31 +0000</pubDate>
+      <guid>2123479638</guid>
+      <id>280</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>Can somebody Please Tell Me Why can I not call flash from javascript in this example : http://makerlab.org/wtf/index.html 'NPObject Error'??</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:31 +0000</pubDate>
+      <guid>2123417693</guid>
+      <id>281</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>@lokkju there is a cross domain security error as well because i don't know how to let civicmaps.org let anybody talk to it by flash...</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:30 +0000</pubDate>
+      <guid>2123511192</guid>
+      <id>279</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>@flowersbyfarha well i'm certain something is wrong with the flash; another flash blob i tried did work - just not the one i made</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:29 +0000</pubDate>
+      <guid>2123547445</guid>
+      <id>278</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>i should clarify that the bug i am trying to solve is when one clicks 'send' - not the crossdomain png fetching bug - i'm ignoring that one</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:29 +0000</pubDate>
+      <guid>2123621797</guid>
+      <id>277</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>Reva says that text read by reflected light is processed by a more critical path of the brain. As opposed to a screen. Are we less critical?</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:28 +0000</pubDate>
+      <guid>2125201099</guid>
+      <id>275</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>@randometc thanks!</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:28 +0000</pubDate>
+      <guid>2124514581</guid>
+      <id>276</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>@luckiestmonkey well aren't we popular? thanks 4 the follow! hows SF life?</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:27 +0000</pubDate>
+      <guid>2125761448</guid>
+      <id>274</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>@flowersbyfarha yes - it is perfect now ... see http://makerlab.org/wtf/index.html ... cross-domain.xml and crossdomain.xml and js gateways!</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:27 +0000</pubDate>
+      <guid>2125871656</guid>
+      <id>273</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>@luckiestmonkey just posted http://github.com/anselm/SpinnyGlobe migrating away from googlecode... did you feel the bits race by?</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:26 +0000</pubDate>
+      <guid>2125889509</guid>
+      <id>272</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>urgggggg work</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:25 +0000</pubDate>
+      <guid>2126981162</guid>
+      <id>270</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>@flowersbyfarha you can drag and rotate it...  thats the point... @meedan will be adding street level data in arabic soon.</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:25 +0000</pubDate>
+      <guid>2125940780</guid>
+      <id>271</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>!@thebanffcentre I'll be showing my residency project in JPL on the second floor today from 3 to 6 - c'mon down!</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:24 +0000</pubDate>
+      <guid>2132840550</guid>
+      <id>268</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>@flowersbyfarha its funny to hear your perspective; i guess i see the globe itself as incidental - but clearly its own issues distract.</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:24 +0000</pubDate>
+      <guid>2132828532</guid>
+      <id>269</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>Did I mention my sweet brilliant girl @paigesaez will be here today?</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:23 +0000</pubDate>
+      <guid>2132975390</guid>
+      <id>267</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>now the final push for todays presentation.  all internets off.</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:27:23 +0000</pubDate>
+      <guid>2133196361</guid>
+      <id>266</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>post</kind>
+      <relations>165</relations>
+    </item>
+    <item>
+      <title>akacolleen</title>
+      <description>O'Reilly Editrix. Martini Maker. Not Canadian Actress. As far as I know.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:36 +0000</pubDate>
+      <guid>12808852</guid>
+      <id>245</id>
+      <georss:point>
+38.0 -121.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>akumar</title>
+      <description>VP Product @Dapper - realtime, semantic and deep web. Previously built Yahoo! SearchMonkey. President, IIT Delhi Alumni Association (North America)</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:46 +0000</pubDate>
+      <guid>14135545</guid>
+      <id>265</id>
+      <georss:point>
+37.77 -122.45      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>dtapscott</title>
+      <description>Author, Consulting Company CEO, Hammond B3 player in rock band, striving to live a principled life of consequence. </description>
+      <pubDate>Fri, 12 Jun 2009 19:22:46 +0000</pubDate>
+      <guid>14128528</guid>
+      <id>264</id>
+      <georss:point>
+43.65 -79.38      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>demandrichard</title>
+      <description>Co-Founder, Chrm and CEO, Demand Media</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:45 +0000</pubDate>
+      <guid>15744118</guid>
+      <id>263</id>
+      <georss:point>
+34.01 -118.49      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>aresnick</title>
+      <description>working to start a different kind of university</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:45 +0000</pubDate>
+      <guid>6189042</guid>
+      <id>262</id>
+      <georss:point>
+42.38 -71.12      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>HilaryP</title>
+      <description>developer, blogger, microsoft student programs, student educator, tech enthusiast, mom, yogi, foodie, buckeye</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:44 +0000</pubDate>
+      <guid>9196162</guid>
+      <id>261</id>
+      <georss:point>
+30.6 -96.31      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>clairecmc</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:22:44 +0000</pubDate>
+      <guid>16160352</guid>
+      <id>260</id>
+      <georss:point>
+37.333 -90.033      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>josetteg</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:22:43 +0000</pubDate>
+      <guid>16617533</guid>
+      <id>259</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>AndrewPWilson</title>
+      <description>Member of HHS social media team </description>
+      <pubDate>Fri, 12 Jun 2009 19:22:43 +0000</pubDate>
+      <guid>19771577</guid>
+      <id>258</id>
+      <georss:point>
+38.895 -77.0367      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>johnmaeda</title>
+      <description>President of Rhode Island School of Design (RISD), est. 1877, creative college in the US. Author of the Laws of Simplicity and other books. MIT grad '88+'89.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:42 +0000</pubDate>
+      <guid>15414807</guid>
+      <id>257</id>
+      <georss:point>
+41.82 -71.42      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>thejointstaff</title>
+      <description>Chairman of the Joint Chiefs of Staff, Adm. Mike Mullen</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:42 +0000</pubDate>
+      <guid>28576135</guid>
+      <id>256</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>govdigest</title>
+      <description>top gov't news</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:41 +0000</pubDate>
+      <guid>30051156</guid>
+      <id>255</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>jsteeleeditor</title>
+      <description>Acquisitions Editor at O'Reilly Media, Inc.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:41 +0000</pubDate>
+      <guid>14209229</guid>
+      <id>254</id>
+      <georss:point>
+40.72 -74.17      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>pedeveloper</title>
+      <description>C# Community Lead, entrepeneur, new tech/media geek</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:40 +0000</pubDate>
+      <guid>19194595</guid>
+      <id>253</id>
+      <georss:point>
+-33.96 25.59      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>zittrain</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:22:40 +0000</pubDate>
+      <guid>1039531</guid>
+      <id>252</id>
+      <georss:point>
+37.56 -122.31      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>cotweet</title>
+      <description>CoTweet is How Business Does Twitter. Need help? follow @cotweet_support.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:39 +0000</pubDate>
+      <guid>17372386</guid>
+      <id>251</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>betsyatoreilly</title>
+      <description>Marketing professional in the publishing business</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:39 +0000</pubDate>
+      <guid>15174809</guid>
+      <id>250</id>
+      <georss:point>
+37.2502 -119.751      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>jeancase</title>
+      <description>social activist</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:38 +0000</pubDate>
+      <guid>17839720</guid>
+      <id>249</id>
+      <georss:point>
+38.895 -77.0367      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>christinelu</title>
+      <description>China. Entrepreneur. Foodie. Geek Girl. Mom. Creative Commons. Sharism. Go Green Initiative. M1NT Shanghai. TEDxShanghai. Geeks On A Plane. Cilantro Media</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:37 +0000</pubDate>
+      <guid>7782442</guid>
+      <id>248</id>
+      <georss:point>
+34.0522 -118.243      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>blakeross</title>
+      <description>Cofounder of Firefox, currently at Facebook</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:37 +0000</pubDate>
+      <guid>15228003</guid>
+      <id>247</id>
+      <georss:point>
+37.4 -122.14      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>derekg</title>
+      <description>yes. </description>
+      <pubDate>Fri, 12 Jun 2009 19:22:36 +0000</pubDate>
+      <guid>747083</guid>
+      <id>246</id>
+      <georss:point>
+40.7142 -74.0064      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>arielwaldman</title>
+      <description>Digital Anthropologist. Founder of Spacehack.org and CupcakeCamp. Engadget columnist. Previous NASA program coordinator, Pownce community manager.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:35 +0000</pubDate>
+      <guid>814304</guid>
+      <id>244</id>
+      <georss:point>
+37.77 -122.45      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>oreillylabs</title>
+      <description>O'Reilly's alpha, beta, and gamma projects.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:35 +0000</pubDate>
+      <guid>19504825</guid>
+      <id>243</id>
+      <georss:point>
+38.4021 -122.824      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>NiemanLab</title>
+      <description>The Nieman Journalism Lab at Harvard University: Trying to figure out the future of news.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:34 +0000</pubDate>
+      <guid>15865878</guid>
+      <id>242</id>
+      <georss:point>
+42.38 -71.12      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>venturehacks</title>
+      <description>The business school for entrepreneurs. By @nivi.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:34 +0000</pubDate>
+      <guid>11620792</guid>
+      <id>241</id>
+      <georss:point>
+37.77 -122.45      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>petermeyers</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:22:33 +0000</pubDate>
+      <guid>18997385</guid>
+      <id>240</id>
+      <georss:point>
+40.7142 -74.0064      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>rashmi</title>
+      <description>CEO &amp; Cofounder - SlideShare</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:33 +0000</pubDate>
+      <guid>610873</guid>
+      <id>239</id>
+      <georss:point>
+37.77 -122.45      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>StephAgresta</title>
+      <description>Stephanie Agresta is EVP, Global Director of Digital Strategy &amp; Social Media at Porter Novelli. Co-Founder of TechSet &amp; UltimateRaceDay. InternetGeekGirl.com</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:32 +0000</pubDate>
+      <guid>2737751</guid>
+      <id>238</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>noahgift</title>
+      <description>author, consultant, python programmer, marathon runner/fitness freak, musician</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:32 +0000</pubDate>
+      <guid>8569472</guid>
+      <id>237</id>
+      <georss:point>
+-41.28 174.78      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>endlessCities</title>
+      <description>architect - Interested in sustainability, digitalisation, web 2.0 and cutting edge relations in between arts, architecture and technology... theory vs. practice</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:57 +0000</pubDate>
+      <guid>15770684</guid>
+      <id>173</id>
+      <georss:point>
+55.68 12.57      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>Objey</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:21:58 +0000</pubDate>
+      <guid>44572979</guid>
+      <id>174</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>kliger</title>
+      <description>online + inworld / urban + nomad / prims + pixels / arg + aug / fab + gen / link + tag / meta + semantic / plug + play / real-time + async</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:58 +0000</pubDate>
+      <guid>813453</guid>
+      <id>175</id>
+      <georss:point>
+48.86 2.34      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>pekingspring</title>
+      <description>Professional cynic but my heart's not in it. Dr. of astronomy, evil web developer, chardonnay-sipping lefty.</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:59 +0000</pubDate>
+      <guid>19730041</guid>
+      <id>176</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>benfu</title>
+      <description>down and to the left.</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:59 +0000</pubDate>
+      <guid>628973</guid>
+      <id>177</id>
+      <georss:point>
+37.77 -122.45      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>greenmuseum</title>
+      <description>Co-Author: The Green Museum; Author: Is Your Museum Grant-Ready? Museum Consultant: sustainability, public currency, grants.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:00 +0000</pubDate>
+      <guid>20719539</guid>
+      <id>178</id>
+      <georss:point>
+38.77 -76.07      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>libbymiller</title>
+      <description>beeb / notube</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:00 +0000</pubDate>
+      <guid>7169162</guid>
+      <id>179</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>mayagrazia</title>
+      <description>Society, Sociology,Culture, Arts</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:53 +0000</pubDate>
+      <guid>35812190</guid>
+      <id>166</id>
+      <georss:point>
+60.0 -96.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>mashable</title>
+      <description>The hottest Twitter news, Twitter tips and Twitter help. Plus, the best social media links around!</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:54 +0000</pubDate>
+      <guid>972651</guid>
+      <id>167</id>
+      <georss:point>
+56.0 -4.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>flowersbyfarha</title>
+      <description>I make &amp;amp; sell flowers from ribbons &amp;amp; beaded stickpins for fashion accessories; also love folkloric dance &amp;amp; music, &amp;amp; books! </description>
+      <pubDate>Fri, 12 Jun 2009 19:21:54 +0000</pubDate>
+      <guid>14819293</guid>
+      <id>168</id>
+      <georss:point>
+44.0001 -120.501      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>mattxbart</title>
+      <description>Geospatial Web Developer</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:55 +0000</pubDate>
+      <guid>9633572</guid>
+      <id>169</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>scottknowles</title>
+      <description>Search consultant - serial entrepreneur, technologist, strategist, start ups, ayurvedic medicine, simple living high thinking</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:55 +0000</pubDate>
+      <guid>8688832</guid>
+      <id>170</id>
+      <georss:point>
+45.54 -122.66      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>sexinstilettos</title>
+      <description>adult performer. model. sarcastic cunt. running around naked and tipsy.</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:56 +0000</pubDate>
+      <guid>17605765</guid>
+      <id>171</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>elatable</title>
+      <description>Product @ Google</description>
+      <pubDate>Fri, 12 Jun 2009 19:21:57 +0000</pubDate>
+      <guid>13041</guid>
+      <id>172</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>dtboyd</title>
+      <description>VP of Sales/Strategy @eROI: Saving pixels one at a time with Holy Water and a 16 Gage Nail.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:01 +0000</pubDate>
+      <guid>7739582</guid>
+      <id>180</id>
+      <georss:point>
+45.54 -122.66      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>katehartman</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:22:01 +0000</pubDate>
+      <guid>14521359</guid>
+      <id>181</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>msamye</title>
+      <description>Life rocks everyday of the week. </description>
+      <pubDate>Fri, 12 Jun 2009 19:22:02 +0000</pubDate>
+      <guid>1690731</guid>
+      <id>182</id>
+      <georss:point>
+45.54 -122.66      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>atduskgreg</title>
+      <description>amateur autoharp-playing robot arms. I start NYU ITP in the fall</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:02 +0000</pubDate>
+      <guid>26853</guid>
+      <id>183</id>
+      <georss:point>
+45.54 -122.66      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>portlandten</title>
+      <description>Growing 10 $1MM tech startups in Portland, OR by 10/2010.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:03 +0000</pubDate>
+      <guid>20408685</guid>
+      <id>184</id>
+      <georss:point>
+45.54 -122.66      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>brainpicker</title>
+      <description>Digital Curaggregator &#8211; cultural curator aggregating the world's eclectic interestingness. Semi-secret geek obsessed with smart design, sustainability &amp; TED</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:04 +0000</pubDate>
+      <guid>9207632</guid>
+      <id>185</id>
+      <georss:point>
+42.75 23.3333      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>imran</title>
+      <description>{ silicon:ali }</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:04 +0000</pubDate>
+      <guid>35853</guid>
+      <id>186</id>
+      <georss:point>
+53.81 -1.55      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>MuseumModernArt</title>
+      <description>Victor Samra (Digital Media/Marketing @ MoMA, aka @vsamra3) at the easel</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:05 +0000</pubDate>
+      <guid>15057943</guid>
+      <id>187</id>
+      <georss:point>
+40.7142 -74.0064      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>abelperez</title>
+      <description>&#9733; Entrepreneur in Software Automation and Marketing Technologies &#9733; Java, C#, PHP, Ruby, Python, Scala, Erlang, F#, C++, SEO, PPC, Social Media, Voice, Video</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:05 +0000</pubDate>
+      <guid>14904001</guid>
+      <id>188</id>
+      <georss:point>
+34.0522 -118.243      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>saintanselm</title>
+      <description>Saint Anselm College is a nationally ranked Benedictine Catholic, liberal arts college located in Manchester, N.H.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:06 +0000</pubDate>
+      <guid>5972532</guid>
+      <id>189</id>
+      <georss:point>
+42.98 -71.44      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>writerauthorart</title>
+      <description>Writer / Author / Artist / Musician - Nathalie Kyrou - Check her art and work out at www.kyrou.com</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:06 +0000</pubDate>
+      <guid>35524263</guid>
+      <id>190</id>
+      <georss:point>
+34.68 33.05      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>rrmutt</title>
+      <description>impersonating a neurotypical</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:07 +0000</pubDate>
+      <guid>14344011</guid>
+      <id>191</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>playspymaster</title>
+      <description>Assembling our task force. Follow to receive further instructions about your mission.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:07 +0000</pubDate>
+      <guid>40971936</guid>
+      <id>192</id>
+      <georss:point>
+-51.75 -59.1667      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>jshardison</title>
+      <description>i like technology, middlebrow art &amp; ice cream. I started doing what the kids call today social media for the recording industry in 1998. @mcbru is my home.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:08 +0000</pubDate>
+      <guid>14413721</guid>
+      <id>193</id>
+      <georss:point>
+45.54 -122.66      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>LonelyBob</title>
+      <description>Video Games, GNU/Linux, Computers, Japan, and other interesting stuff.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:08 +0000</pubDate>
+      <guid>14235705</guid>
+      <id>194</id>
+      <georss:point>
+35.87 139.64      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>appkineticarts</title>
+      <description>Applied Kinetic Arts</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:09 +0000</pubDate>
+      <guid>43204038</guid>
+      <id>195</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>RandomEtc</title>
+      <description>ONLY ADDING PEOPLE I KNOW IN REAL LIFE. Sorry to shout, BUT THAT'S THE TRUTH.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:09 +0000</pubDate>
+      <guid>13495</guid>
+      <id>196</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>dvrogers</title>
+      <description>Inch Mail Artisan, Not On Credit, Add-Art User, Urban Oil Consumer, Futureshop Retailer, Seismic Fault ..</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:10 +0000</pubDate>
+      <guid>14685190</guid>
+      <id>197</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>annbid</title>
+      <description>I love storytelling, film, books, speech, CMC, psychology and general science. Interaction designer at bokus.com (bookshop). I like singing too.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:11 +0000</pubDate>
+      <guid>1724661</guid>
+      <id>198</id>
+      <georss:point>
+59.33 18.07      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>yql</title>
+      <description>Offical Yahoo Query Language Tweets</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:11 +0000</pubDate>
+      <guid>21425648</guid>
+      <id>199</id>
+      <georss:point>
+37.39 -122.03      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>banffette</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:22:11 +0000</pubDate>
+      <guid>42645641</guid>
+      <id>200</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>bluepaperplane</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:22:12 +0000</pubDate>
+      <guid>15401954</guid>
+      <id>201</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>stevenjayl</title>
+      <description>I'm writing as fast as I can.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:13 +0000</pubDate>
+      <guid>808627</guid>
+      <id>202</id>
+      <georss:point>
+40.7142 -74.0064      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>bradfitz</title>
+      <description>hacker, drinker.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:13 +0000</pubDate>
+      <guid>650013</guid>
+      <id>203</id>
+      <georss:point>
+37.77 -122.45      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>facebookbrandee</title>
+      <description>i do pr for facebook.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:14 +0000</pubDate>
+      <guid>14158830</guid>
+      <id>204</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>dannysullivan</title>
+      <description>Editor of SearchEngineLand.com, covering Google, SEO, PPC &amp;amp; all aspects of search engines and search marketing.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:14 +0000</pubDate>
+      <guid>858051</guid>
+      <id>205</id>
+      <georss:point>
+33.61 -117.87      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>christine</title>
+      <description>Early-stage investor at First Round Capital. Tribal kitchen goddess.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:15 +0000</pubDate>
+      <guid>3980</guid>
+      <id>206</id>
+      <georss:point>
+37.77 -122.45      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>TomRaftery</title>
+      <description>Lead Analyst at GreenMonk, the Energy and Sustainability practice of industry analyst firm RedMonk.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:15 +0000</pubDate>
+      <guid>797835</guid>
+      <id>207</id>
+      <georss:point>
+37.38 -5.99      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>fbase</title>
+      <description>Freebase news and commentary</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:16 +0000</pubDate>
+      <guid>14748668</guid>
+      <id>208</id>
+      <georss:point>
+37.77 -122.45      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>sarawinge</title>
+      <description>On the Radar team at O'Reilly</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:17 +0000</pubDate>
+      <guid>2333071</guid>
+      <id>209</id>
+      <georss:point>
+44.6 33.53      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>radar</title>
+      <description>O'Reilly Media's group blog about emerging technologies including Web 2.0, location, open source, ambient computing, mobile, web operations, and more.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:17 +0000</pubDate>
+      <guid>14984090</guid>
+      <id>210</id>
+      <georss:point>
+38.4021 -122.824      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>valdiskrebs</title>
+      <description>Network analysis expert, consultant, coach, educator, researcher, author, software designer, ambient electronic musician, photographer. Sveiks!</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:18 +0000</pubDate>
+      <guid>15415778</guid>
+      <id>211</id>
+      <georss:point>
+41.48 -81.68      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>andrew_chen</title>
+      <description>entrepreneur, online ads, venture capital, social media, game design!</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:18 +0000</pubDate>
+      <guid>3283901</guid>
+      <id>212</id>
+      <georss:point>
+37.4 -122.14      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>anildash</title>
+      <description>An authority on lolcats, autotune, software, NYC, the web and Prince. And according to the Houston Chronicle, I'm a 'legendary blogger'. So it must be true.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:19 +0000</pubDate>
+      <guid>36823</guid>
+      <id>213</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>IBMResearch</title>
+      <description>IBM's Research Division</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:19 +0000</pubDate>
+      <guid>16319797</guid>
+      <id>214</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>LindaStone</title>
+      <description>twitter=continuous partial mindcasting, continuous partial friendship, continuous partial connections</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:20 +0000</pubDate>
+      <guid>16721263</guid>
+      <id>215</id>
+      <georss:point>
+47.62 -122.35      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>johnperrybarlow</title>
+      <description>I co-founded EFF, wrote songs for the Dead, ranched in Wyoming for 17.  A weird father, a good friend, and an excellent ex.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:20 +0000</pubDate>
+      <guid>14274132</guid>
+      <id>216</id>
+      <georss:point>
+40.0 -100.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>Groklaw</title>
+      <description>When you want to know more but don't know where to look</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:21 +0000</pubDate>
+      <guid>16485096</guid>
+      <id>217</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>liamcasey</title>
+      <description>www.crunchbase.com/person/liam-casey</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:21 +0000</pubDate>
+      <guid>17331549</guid>
+      <id>218</id>
+      <georss:point>
+22.53 114.13      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>benjaminblack</title>
+      <description>this is the account where i act all nice and stuff.  b6n is the other one.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:22 +0000</pubDate>
+      <guid>16031975</guid>
+      <id>219</id>
+      <georss:point>
+47.62 -122.35      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>vanessafox</title>
+      <description>sometimes literary</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:23 +0000</pubDate>
+      <guid>1699751</guid>
+      <id>220</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>sciam</title>
+      <description>Scientific American Magazine and online, over 150 years of science news</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:23 +0000</pubDate>
+      <guid>14647570</guid>
+      <id>221</id>
+      <georss:point>
+40.7142 -74.0064      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>bobgourley</title>
+      <description>Bob Gourley blogs at CTOvision.com and is the CTO and founder of Crucial Point LLC</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:24 +0000</pubDate>
+      <guid>14554287</guid>
+      <id>222</id>
+      <georss:point>
+38.75 -77.49      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>THE_REAL_SHAQ</title>
+      <description>VERY QUOTATIOUS, I PERFORM RANDOM ACTS OF SHAQNESS</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:24 +0000</pubDate>
+      <guid>17461978</guid>
+      <id>223</id>
+      <georss:point>
+33.54 -112.07      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>cote</title>
+      <description>'Mockingbird sings in the middle of the night, all his songs are stolen so he hides.' Industry analyst with RedMonk. Cf. DrunkAndRetired.com.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:25 +0000</pubDate>
+      <guid>53953</guid>
+      <id>224</id>
+      <georss:point>
+40.62 -74.42      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>scifri</title>
+      <description>We make a science radio program heard on NPR and create science content for the web. Got ideas? Write us @scifri and tweet your questions during the show.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:25 +0000</pubDate>
+      <guid>16817883</guid>
+      <id>225</id>
+      <georss:point>
+40.7142 -74.0064      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>hacks</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:22:26 +0000</pubDate>
+      <guid>1533431</guid>
+      <id>226</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>mcuban</title>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2009 19:22:26 +0000</pubDate>
+      <guid>16228398</guid>
+      <id>227</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>gandhi_bot</title>
+      <description>Quotes from the Mahatma, always served fresh !</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:27 +0000</pubDate>
+      <guid>14628238</guid>
+      <id>228</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>chr1sa</title>
+      <description>Wired, Long Tail, Free, DIY Drones, BookTour</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:27 +0000</pubDate>
+      <guid>17595439</guid>
+      <id>229</id>
+      <georss:point>
+37.87 -122.27      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>NASA</title>
+      <description>News from NASA</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:28 +0000</pubDate>
+      <guid>11348282</guid>
+      <id>230</id>
+      <georss:point>
+0.0 0.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>terrie</title>
+      <description>Permie, birder, blogger, writer, CrowdVine acct. mgr. Follow me also at @permiedotnet for posts about permaculture.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:28 +0000</pubDate>
+      <guid>12041</guid>
+      <id>231</id>
+      <georss:point>
+38.4021 -122.824      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>policymonk</title>
+      <description>Prof at National Defense Univ. Focus on IT, national security. Wife + 2 kids. Do yoga and aikido, play guitar.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:29 +0000</pubDate>
+      <guid>18142304</guid>
+      <id>232</id>
+      <georss:point>
+38.895 -77.0367      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>PaulDunay</title>
+      <description>On a Mission to find Innovative Ideas for B2B Marketers</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:29 +0000</pubDate>
+      <guid>2673451</guid>
+      <id>233</id>
+      <georss:point>
+40.7142 -74.0064      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>nytimes</title>
+      <description>Where the Conversation Begins.  Front page stories from NYTimes.com, the web site of The New York Times.</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:30 +0000</pubDate>
+      <guid>807095</guid>
+      <id>234</id>
+      <georss:point>
+40.7142 -74.0064      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>Pogue</title>
+      <description>Tech columnist, NY Times; CNBC tech dude; Missing Manuals creator, dad of 3!</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:31 +0000</pubDate>
+      <guid>9534522</guid>
+      <id>235</id>
+      <georss:point>
+40.0 -100.0      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+    <item>
+      <title>larrybrilliant</title>
+      <description>Philanthropedemiologist, President, Skoll Urgent Threats Fund; advisor to Jeff Skoll and Google</description>
+      <pubDate>Fri, 12 Jun 2009 19:22:31 +0000</pubDate>
+      <guid>17297668</guid>
+      <id>236</id>
+      <georss:point>
+37.77 -122.45      </georss:point>
+      <kind>user</kind>
+      <relations></relations>
+    </item>
+  </channel>
+</rss>

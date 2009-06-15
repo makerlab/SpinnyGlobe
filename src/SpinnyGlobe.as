@@ -9,11 +9,11 @@ package {
 	import flash.filters.*;
 	import flash.geom.*;
 	import flash.net.*;
+	import flash.system.Security;
 	import flash.text.*;
 	import flash.utils.*;
 	import flash.xml.*;
-	import flash.system.Security;
-
+	
 	import org.makerlab.*;
 	import org.papervision3d.cameras.*;
 	import org.papervision3d.core.geom.renderables.Vertex3D;
@@ -36,11 +36,6 @@ package {
 
 	[SWF(width="400", height="400", backgroundColor="#000000", frameRate="31")]
 	public class SpinnyGlobe extends Sprite {
-
-		// Markers
-		// http://civicmaps.org/suddenly/kmldata.xml
-		public var dataPath1:String = "assets/kmldata.xml";
-		public var dataPath2:String  = "assets/connections.xml";
 
 		// The planetary surface is always at 0,0,0 and always has this radius
 		// Scaling is accomplished by a hack which renders a partial surface fragment on demand
@@ -111,6 +106,8 @@ package {
 			Security.loadPolicyFile("http://civicmaps.org/cross-domain.xml");
             if (ExternalInterface.available) {
 				ExternalInterface.addCallback("event_focus_appropriately_on",event_focus_appropriately_on);
+				ExternalInterface.addCallback("markers_load_rss",markers_load_rss);
+				ExternalInterface.addCallback("lines_load",lines_load);
             }
 		}
 
@@ -227,7 +224,7 @@ package {
 			// let the outside world talk to us
 			add_external_interfaces_and_security();
 
-			opaqueBackground = 0xffffff;
+			opaqueBackground = 0;
 
 			// some mumbo jumbo
 			stage.scaleMode = "noScale"
@@ -288,7 +285,7 @@ package {
 			}
 
 			// Map navigation controls
-			if( true ) {
+			if( false ) {
 				var s:Sprite;
 				var size:Number = 20;
 
@@ -377,16 +374,11 @@ package {
 
 			addEventListener(Event.ENTER_FRAME, event_update);
 
-			// load overlays
-			markers_load(dataPath1,0,6);
-			lines_load(dataPath2);;
-
 			// lets look at the flash variables
 			this.loaderInfo.addEventListener(Event.COMPLETE, this.loaderComplete);
 
 			// try do this last so it appears in center
-			
-						// An optional earth glow effect
+			// An optional earth glow effect
 			if (true) {
 				earthglow = new Sprite();
 				// TODO: scaling is not working properly
@@ -405,6 +397,10 @@ package {
 				earthglow.graphics.endFill();
 				addChildAt(earthglow, 0);
 			}
+
+			// load some art in a time sequenced way
+
+			sequencer_start();
 
 		}
 
@@ -461,21 +457,42 @@ package {
 		// ************************************************************************************************************************
 		// marker and lines
 		// ************************************************************************************************************************
+
 		public static var minzoom:int = 0;
 		public static var maxzoom:int = 999;
 
-		// load a pile of markers
-		private function markers_load(filename:String,_minzoom:int = 0,_maxzoom:int = 999):void {
+		// load a pile of markers XXXX CANNOT GET THIS TO WORK
+		private function markers_load_rss(filename:String,_minzoom:int = 0,_maxzoom:int = 999):void {
 			minzoom = _minzoom;
 			maxzoom = _maxzoom;
-			var xmlSession:DataLoader = new DataLoader({ dataType: "XML", dataPath: filename, app: this, onLoad: markers_parse });
+			var xmlSession:DataLoader = new DataLoader({ dataType: "XML", dataPath: filename, app: this, onLoad: markers_parse_rss });
 			xmlSession.loadData();
 		}
 
-		public function markers_parse(xmlData:XML):void {
-			var ns:Namespace = xmlData.namespace();
-			for each (var xmlPlacemark:XML in xmlData.ns::Placemark) {
-				new Node(xmlPlacemark, minzoom, maxzoom, this );
+		// load a pile of markers
+		private function markers_load_kml(filename:String,_minzoom:int = 0,_maxzoom:int = 999):void {
+			minzoom = _minzoom;
+			maxzoom = _maxzoom;
+			var xmlSession:DataLoader = new DataLoader({ dataType: "XML", dataPath: filename, app: this, onLoad: markers_parse_kml });
+			xmlSession.loadData();
+		}
+
+		public function markers_parse_rss(xml:XML):void {
+			// TODO borked
+			var ns:Namespace = xml.namespace();
+			for each (var parent:XML in xml.ns::channel) {
+				for each ( var node:XML in parent.ns::item) {
+					Node.build(node,minzoom,maxzoom,this);
+	   			}
+			}
+		}
+
+		public function markers_parse_kml(xml:XML):void {
+			var ns:Namespace = xml.namespace();
+			var count:int = 0;
+			for each (var node:XML in xml.ns::Placemark) {
+				Node.build(node,minzoom,maxzoom,this);
+				count = count + 1;
 			}
 		}
 
@@ -545,6 +562,52 @@ package {
 			spin_renderer.renderScene(spin_scene, spin_camera, spin_viewport);
 			sequencing_engine();
 		}
+
+		// ************************************************************************************************************************
+		// angel
+		// ************************************************************************************************************************
+
+		private var sequence_timer:Timer = new Timer(60*1000,99999);
+		private var animate_timer:Timer = new Timer(10,99999);
+
+		// http://xangel.makerlab.org:3000/xml?q=%40anselm+near+banff+canada";
+		public var angel_url:String = "http://xangel.makerlab.org:3000/xml?q=%40anselm+near+banff+canada";
+		public var sample_markers_url:String = "assets/kmldata.xml";
+		public var sample_lines_url:String  = "assets/connections.xml";
+
+		public function sequencer_start():void {
+			sequence_timer.start();
+			sequence_timer.addEventListener(TimerEvent.TIMER,angel_timer_handler);
+			animate_timer.start();
+			animate_timer.addEventListener(TimerEvent.TIMER,animate_timer_handler);
+			markers_load_kml(sample_markers_url);
+			lines_load(sample_lines_url);
+        	markers_load_kml("assets/angel.xml");
+     		event_zoom_in(null);
+			 manipulator.event_move(  1, 50);
+		}
+
+		public function animate_timer_handler(e:TimerEvent):void {
+			 manipulator.event_move(  1, 0);
+		}
+
+        public function angel_timer_handler(e:TimerEvent):void {
+        	angel_update();
+        }
+
+		public function angel_update():void {
+//			markers_load_kml(sample_markers_url);
+        	markers_load_kml(angel_url);
+
+for each(var node:Node in Node.nodes) {
+	for each(var node2:Node in Node.nodes) {
+//		if( node.uuid == node2.parent_id ) {
+			
+//		}
 	}
 }
 
+
+        }
+	}
+}
