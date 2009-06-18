@@ -285,7 +285,7 @@ package {
 			}
 
 			// Map navigation controls
-			if( false ) {
+			if( true ) {
 				var s:Sprite;
 				var size:Number = 20;
 
@@ -571,7 +571,7 @@ package {
 		private var animate_timer:Timer = new Timer(10,99999);
 
 		// http://xangel.makerlab.org:3000/xml?q=%40anselm+near+banff+canada";
-		public var angel_url:String = "http://xangel.makerlab.org:3000/xml?q=%40anselm+near+banff+canada";
+		public var angel_url:String = "http://angel.makerlab.org/xml?q=%40anselm+near+banff+canada";
 		public var sample_markers_url:String = "assets/kmldata.xml";
 		public var sample_lines_url:String  = "assets/connections.xml";
 
@@ -581,14 +581,15 @@ package {
 			animate_timer.start();
 			animate_timer.addEventListener(TimerEvent.TIMER,animate_timer_handler);
 			markers_load_kml(sample_markers_url);
-			lines_load(sample_lines_url);
-        	markers_load_kml("assets/angel.xml");
+//			lines_load(sample_lines_url);
+ //       	markers_load_kml("assets/angel.xml");
+ 			markers_load_kml(angel_url);
      		event_zoom_in(null);
-			 manipulator.event_move(  1, 50);
+			manipulator.event_move(  1, 50);
 		}
 
 		public function animate_timer_handler(e:TimerEvent):void {
-			 manipulator.event_move(  1, 0);
+//			 manipulator.event_move(  1, 0);
 		}
 
         public function angel_timer_handler(e:TimerEvent):void {
@@ -598,16 +599,6 @@ package {
 		public function angel_update():void {
 //			markers_load_kml(sample_markers_url);
         	markers_load_kml(angel_url);
-
-for each(var node:Node in Node.nodes) {
-	for each(var node2:Node in Node.nodes) {
-//		if( node.uuid == node2.parent_id ) {
-			
-//		}
-	}
-}
-
-
         }
 	}
 }

@@ -162,6 +162,10 @@
 		node.particle.y = v.y;
 		node.particle.z = v.z;
 
+	if(oldest != null && oldest.latitude > 30 && node.latitude > 30 ) {
+		p.lines_arc(node.latitude,node.longitude,oldest.latitude,oldest.longitude);
+	}
+
 //	Node.help(p,"got " + blob.Point + " " + node.longitude );
 
     }
@@ -256,6 +260,9 @@
         elevation = 0;
         type = 1; // hack
       }
+
+ latitude = latitude + Math.random() - 0.5; 
+ longitude = longitude + Math.random() - 0.5; 
  
       // reset namespace to null
       // (this is necessary to avoid: "VerifyError: Error #1025: An invalid register 3 was accessed" )
@@ -371,6 +378,9 @@
     private static var popup:Sprite = null;
     public static var selected:Node = null;
     private var drawn:Boolean = false;
+	public var red:int = Math.floor( Math.random() * 192 ) + 63;
+	public var green:int = Math.floor( Math.random() * 192 ) + 63;
+	public var blue:int = Math.floor( Math.random() * 192 ) + 63;
  
     public function marker_selected(state:Boolean):void {
       selected = state ? this : null;
@@ -388,7 +398,8 @@ if(this.latitude == 0 ) state = false;
       if(!drawn) {
         drawn = true;
         graphics.lineStyle(3, 0xFFFFFF, 0.5);
-        graphics.beginFill( selected == this ? 0xff0000 : 0x00ff00, 0.5 );
+        var c:int = red << 16 + green <<8 + blue;
+        graphics.beginFill( selected == this ? 0xff0000 : c , 0.5 );
         graphics.drawCircle( 0, 0, 10 );
         this.alpha = 0.5;
         graphics.endFill();
