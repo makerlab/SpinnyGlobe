@@ -1,2 +1,5 @@
 .svn
 .git/config
+iphone/Locative.xcodeproj/*
+iphone/build/*
+
