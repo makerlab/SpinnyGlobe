@@ -8,7 +8,7 @@
 	import flash.events.*;
 	import flash.geom.*;
 	import flash.filters.DropShadowFilter;
-	import fl.video.*;
+//	import fl.video.*;
 	import support.DataLoader;
 	
 	public class WinDisplay extends MovieClip {
@@ -29,7 +29,7 @@
 		
 		// display
 		private var output:TextField;
-		private var videoPlayer:FLVPlayback;
+//		private var videoPlayer:FLVPlayback;
 		private var colorCode:uint;
 		
 		
@@ -119,7 +119,7 @@
 				
 				// video
 				case "2":
-					setUpVideoPlayer();
+			//		setUpVideoPlayer();
 					break;
 				
 				//
@@ -194,7 +194,7 @@
 			// load HTML data
 			loadData(contentPath);
 		}
-		
+	/*	
 		// VIDEO PLAYER ///////////////////////////////////////////////
 		private function setUpVideoPlayer():void {
 			
@@ -220,7 +220,7 @@
 			videoPlayer.source 	= dataPath;
 			videoPlayer.visible = true;
 		}
-		
+	*/	
 		// PROCESS DATA ///////////////////////////////////////////////
 		public function processData (htmlData:String):void { 
 			output.htmlText = htmlData;
@@ -230,8 +230,8 @@
 		private function closeWindow(event:MouseEvent):void {
 			if (winMode == "2") {
 				trace ("remove vp");
-				videoPlayer.stop();
-				videoPlayer.closeVideoPlayer(1);
+//				videoPlayer.stop();
+//				videoPlayer.closeVideoPlayer(1);
 				//removeChildAt(0);
 				 //TODO: must get index ? *
 			}

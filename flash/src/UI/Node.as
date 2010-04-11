@@ -81,48 +81,48 @@
     // ************************************************************************************************************************
 
 	public static function getblobid(blob:XML):String {
-
- return blob.id.toString();
+		// return blob.id.toString();
 		var uuid:String = null;
 		if(blob.@id) {
 			uuid = blob.@id.toString();
 		}
 		if(!uuid && blob.guid) {
-	        uuid = blob.guid.toString();
+		        uuid = blob.guid.toString();
 	  	}
 		if(!uuid && blob.uuid) {
-	        uuid = blob.uuid.toString();
+		        uuid = blob.uuid.toString();
 	  	}
 		if(!uuid && blob.id) {
-	        uuid = blob.id.toString();
+		        uuid = blob.id.toString();
 	  	}
 		return uuid;
 	}
 
 	public static var vertical:int = 0;
+
 	public static function help(parent:Sprite,texts:String = "hello"):void {
 		var p:Sprite = new Sprite();
 		parent.addChild(p);
 		/*
-        p.graphics.lineStyle(3, 0xFFFFFF, 0.5);
-        p.graphics.beginFill(0xff0000 );
-        p.graphics.drawCircle( 0, 0, 10 );
-        p.graphics.endFill();
-        */
-        var text:TextField = new TextField();
-        var textformat:TextFormat = new TextFormat();
-        text.selectable = false;
-        text.text = "";
-        textformat.font = "Courier";
-        textformat.color = 0xaaaaaa;
-        textformat.size = 10;
-        textformat.align = "left";
-        text.defaultTextFormat = textformat;  
-        text.text = texts
-        p.x = 40;
-        vertical = vertical + 10;
-        p.y = vertical;
-        p.addChild(text);
+		p.graphics.lineStyle(3, 0xFFFFFF, 0.5);
+		p.graphics.beginFill(0xff0000 );
+		p.graphics.drawCircle( 0, 0, 10 );
+		p.graphics.endFill();
+		*/
+		var text:TextField = new TextField();
+		var textformat:TextFormat = new TextFormat();
+		text.selectable = false;
+		text.text = "";
+		textformat.font = "Courier";
+		textformat.color = 0xaaaaaa;
+		textformat.size = 10;
+		textformat.align = "left";
+		text.defaultTextFormat = textformat;  
+		text.text = texts
+		p.x = 40;
+		vertical = vertical + 10;
+		p.y = vertical;
+		p.addChild(text);
 	}
 
     public static function build(blob:XML,_minzoom:Number,_maxzoom:Number, p:SpinnyGlobe = null):void {
@@ -388,7 +388,7 @@
  
     public function marker_update(x:Number,y:Number,state:Boolean):void {
 
-if(this.latitude == 0 ) state = false;
+	if(this.latitude == 0 ) state = false;
 
       this.visible = state;
       if(state) {

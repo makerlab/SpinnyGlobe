@@ -85,9 +85,9 @@ package {
 			manipulator.zoom = user_zoom;
 			manipulator.reset();
 			spin_camera.reset();
-            if (ExternalInterface.available) {
-                ExternalInterface.call("spinnyglobe_pos_to_js",0,0,0);
-            }
+			if (ExternalInterface.available) {
+				ExternalInterface.call("spinnyglobe_pos_to_js",0,0,0);
+			}
 		}
 		public function event_focus_appropriately_on(_lat:Number,_lon:Number,_zoom:Number=8):void {
 			state_target_lat = _lat;
@@ -104,11 +104,11 @@ package {
 			Security.allowDomain("*");
 			Security.allowInsecureDomain("*");
 			Security.loadPolicyFile("http://civicmaps.org/cross-domain.xml");
-            if (ExternalInterface.available) {
+			if (ExternalInterface.available) {
 				ExternalInterface.addCallback("event_focus_appropriately_on",event_focus_appropriately_on);
 				ExternalInterface.addCallback("markers_load_rss",markers_load_rss);
 				ExternalInterface.addCallback("lines_load",lines_load);
-            }
+			}
 		}
 
 		///////////////////////////////////////////////////////////////////////////////////////////////////
@@ -211,10 +211,6 @@ package {
 		}
 		*/
 
-		public function makerlab_listenener():void {
-			navigateToURL(new URLRequest("http://makerlab.com"));
-		}
-
 		///////////////////////////////////////////////////////////////////////////////////////////////////
 		// START
 		///////////////////////////////////////////////////////////////////////////////////////////////////
@@ -222,18 +218,18 @@ package {
 		public function SpinnyGlobe():void {
 
 			// let the outside world talk to us
-			add_external_interfaces_and_security();
+			// add_external_interfaces_and_security();
 
 			opaqueBackground = 0;
 
 			// some mumbo jumbo
-			stage.scaleMode = "noScale"
+			if(stage) stage.scaleMode = "noScale"
 
-			// width and height
-			//if( stage.stageWidth > 0 ) {
-			//	w = stage.stageWidth;
-			//	h = stage.stageHeight;
-			//}
+			// width and height; don't set these anymore
+			if( stage && stage.stageWidth > 0 && stage.stageHeight > 0 ) {
+			//	width = stage.stageWidth;
+			//	height = stage.stageHeight;
+			}
 
 			// A mandatory backdrop to catch mouse events
 			if( true ) {
@@ -246,7 +242,7 @@ package {
 			// papervision3d startup
 			spin_viewport = new Viewport3D(width, height, true, true);
 			addChild( spin_viewport );
-			spin_renderer = new BasicRenderEngine();
+
 			spin_scene = new Scene3D();
 
 			// An optional pretty star-field - slow
@@ -265,6 +261,9 @@ package {
 				spin_scene.addChild(planet);
 			}
 
+			// Start up PV3D support
+			spin_renderer = new BasicRenderEngine();
+
 			// An optional test object for debugging
 			if (false) {
 				var material2:BitmapFileMaterial = new BitmapFileMaterial("assets/earth.jpg");
@@ -274,14 +273,16 @@ package {
 				spin_scene.addChild(globe);
 			}
 
-			// a logo rendered via ordinary flash
+			// MAKERLAB Logo
 			if(true) {
 				var loader:Loader = new Loader();
-				this.addChild(loader);
-				loader.x = 0;
-				loader.y = height-22;
 				loader.load(new URLRequest("assets/m.png"));
-				//loader.addEventListener(MouseEvent.CLICK, makerlab_listener );
+				loader.x = 0;
+				loader.y = 0;
+				addChild(loader);
+				loader.addEventListener(MouseEvent.CLICK, function():void {
+					navigateToURL(new URLRequest("http://makerlab.com")); //,"_self");
+				});
 			}
 
 			// Map navigation controls
@@ -291,8 +292,8 @@ package {
 
 				// up
 				s = new Sprite();
-				s.x=2*size; s.y=1*size;
-				s.graphics.beginFill(0xffff00);
+				s.x=2*size; s.y=2*size;
+				s.graphics.beginFill(0x00ff00);
 				s.graphics.drawCircle(0,0,size/2);
 				s.graphics.endFill();
 				s.addEventListener(MouseEvent.CLICK,event_move_up);
@@ -300,8 +301,8 @@ package {
 
 				// down
 				s = new Sprite();
-				s.x=2*size; s.y=3*size;
-				s.graphics.beginFill(0xffff00);
+				s.x=2*size; s.y=4*size;
+				s.graphics.beginFill(0x00ff00);
 				s.graphics.drawCircle(0,0,size/2);
 				s.graphics.endFill();
 				s.addEventListener(MouseEvent.CLICK,event_move_down);
@@ -309,8 +310,8 @@ package {
 
 				// left
 				s = new Sprite();
-				s.x=1*size; s.y=2*size;
-				s.graphics.beginFill(0xfff000);
+				s.x=1*size; s.y=3*size;
+				s.graphics.beginFill(0x00ff00);
 				s.graphics.drawCircle(0,0,size/2);
 				s.graphics.endFill();
 				s.addEventListener(MouseEvent.CLICK,event_move_left);
@@ -318,8 +319,8 @@ package {
 
 				// right
 				s = new Sprite();
-				s.x=3*size; s.y=2*size;
-				s.graphics.beginFill(0xfff000);
+				s.x=3*size; s.y=3*size;
+				s.graphics.beginFill(0x00ff00);
 				s.graphics.drawCircle(0,0,size/2);
 				s.graphics.endFill();
 				s.addEventListener(MouseEvent.CLICK,event_move_right);
@@ -327,7 +328,7 @@ package {
 
 				// zoom out
 				s = new Sprite();
-				s.x=2*size; s.y=5*size-size/5;
+				s.x=2*size; s.y=6*size-size/5;
 				s.graphics.beginFill(0xff00ff);
 				s.graphics.drawCircle(0,0,size/2);
 				s.graphics.endFill();
@@ -336,7 +337,7 @@ package {
 
 				// zoom in
 				s = new Sprite();
-				s.x=2*size; s.y=6*size;
+				s.x=2*size; s.y=7*size;
 				s.graphics.beginFill(0xff00ff);
 				s.graphics.drawCircle(0,0,10);
 				s.graphics.endFill();
@@ -345,7 +346,7 @@ package {
 
 				// reset
 				s = new Sprite();
-				s.x=2*size; s.y=8*size;
+				s.x=2*size; s.y=9*size;
 				s.graphics.beginFill(0xff0000);
 				s.graphics.drawCircle(0,0,10);
 				s.graphics.endFill();
@@ -391,17 +392,14 @@ package {
 				matr.createGradientBox(glowRadius, glowRadius, 0, -(glowRadius/2), -(glowRadius/2));
 				var spreadMethod:String = SpreadMethod.PAD;
 				earthglow.visible = false;
-				earthglow.graphics.beginGradientFill (
-					fillType, colors, alphas, ratios, matr, spreadMethod);  
+				earthglow.graphics.beginGradientFill(fillType, colors, alphas, ratios, matr, spreadMethod);  
 				earthglow.graphics.drawCircle(0, 0, glowRadius);
 				earthglow.graphics.endFill();
 				addChildAt(earthglow, 0);
 			}
 
-			// load some art in a time sequenced way
-
+			// start timers which will animate globe and load markers and the like
 			sequencer_start();
-
 		}
 
 		//////////////////////////////////////////////
@@ -545,14 +543,16 @@ package {
 
 		// ************************************************************************************************************************
 		// update
+		// general update; flash doesn't support vertical beam synchronization... dunno how fast this is.
 		// ************************************************************************************************************************
 
-		// general update; flash doesn't support vertical beam synchronization... dunno how fast this is.
 		public function event_update(e:Event):void {
-			// i have no idea
-			earthglow.x = stage.stageWidth / 2 ; // width_desired/2;
-			earthglow.y = stage.stageHeight / 2 ; // height_desired/2;
-			earthglow.visible = true;
+			// i have no idea why i have to reassert this
+			if(earthglow && stage) {
+				earthglow.x = stage.stageWidth / 2 ; // width_desired/2;
+				earthglow.y = stage.stageHeight / 2 ; // height_desired/2;
+				earthglow.visible = true;
+			}
 			if( manipulator ) {
 				spin_camera.my_transform = manipulator.get_transform();
 			}
@@ -564,7 +564,7 @@ package {
 		}
 
 		// ************************************************************************************************************************
-		// angel
+		// angel load assets every so often so it is dynamic
 		// ************************************************************************************************************************
 
 		private var sequence_timer:Timer = new Timer(60*1000,99999);
@@ -576,29 +576,33 @@ package {
 		public var sample_lines_url:String  = "assets/connections.xml";
 
 		public function sequencer_start():void {
-			sequence_timer.start();
-			sequence_timer.addEventListener(TimerEvent.TIMER,angel_timer_handler);
-			animate_timer.start();
-			animate_timer.addEventListener(TimerEvent.TIMER,animate_timer_handler);
+
+			// these are turned off for now...
+			// sequence_timer.start();
+			// sequence_timer.addEventListener(TimerEvent.TIMER,angel_timer_handler);
+			// animate_timer.start();
+			// animate_timer.addEventListener(TimerEvent.TIMER,animate_timer_handler);
+
+			// just load some pretty example content immediately
 			markers_load_kml(sample_markers_url);
-//			lines_load(sample_lines_url);
- //       	markers_load_kml("assets/angel.xml");
- 			markers_load_kml(angel_url);
-     		event_zoom_in(null);
-			manipulator.event_move(  1, 50);
+			lines_load(sample_lines_url);
+
+			// don't bother with this; it was for a demo of angel.makerlab.org for banff centre
+			// markers_load_kml("assets/angel.xml");
+ 			// markers_load_kml(angel_url);
+
+			// don't bother with this; it was for a demo of angel.makerlab.org for banff centre
+			// event_zoom_in(null);
+			// manipulator.event_move(  1, 50);
 		}
 
 		public function animate_timer_handler(e:TimerEvent):void {
-//			 manipulator.event_move(  1, 0);
+			 manipulator.event_move(  1, 0);
 		}
 
-        public function angel_timer_handler(e:TimerEvent):void {
-        	angel_update();
-        }
-
-		public function angel_update():void {
-//			markers_load_kml(sample_markers_url);
-        	markers_load_kml(angel_url);
-        }
+		public function angel_timer_handler(e:TimerEvent):void {
+			markers_load_kml(sample_markers_url);
+			markers_load_kml(angel_url);
+		}
 	}
 }

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+  <Placemark id="0" type ="1">
+    <name>Zero point: 0, 0</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,0,0</coordinates>
+    </Point>
+  </Placemark>
+  
+   <Placemark id="1" type ="2">
+    <name>30, 0</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,0,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="2" type ="2">
+    <name>30, 30</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,30,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="3" type ="2">
+    <name>30, 60</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,60,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="4" type ="2">
+    <name>30, 90</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,90,0</coordinates>
+    </Point>
+  </Placemark>
+  
+   <Placemark id="5" type ="2">
+    <name>30, 120</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,120,0</coordinates>
+    </Point>
+  </Placemark>
+  
+    <Placemark id="6" type ="2">
+    <name>30, 150</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,150,0</coordinates>
+    </Point>
+  </Placemark>
+  
+   <Placemark id="7" type ="2">
+    <name>30, 180</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,180,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="8" type ="1">
+    <name>0, 180</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,180,0</coordinates>
+    </Point>
+  </Placemark>
+  
+    <Placemark id="9" type ="1">
+    <name>0, 30</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,30,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="10" type ="1">
+    <name>0, 60</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,60,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="11" type ="1">
+    <name>0, 90</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,90,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="12" type ="1">
+    <name>0, 120</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,120,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="13" type ="1">
+    <name>0, 150</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,150,0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+

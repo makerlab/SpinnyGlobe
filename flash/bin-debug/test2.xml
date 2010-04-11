@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+  <Placemark id="0" type ="1">
+    <name>Zero point: 0, 0</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,0,0</coordinates>
+    </Point>
+  </Placemark>
+  
+   <Placemark id="1" type ="2">
+    <name>30, 0</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,0,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="2" type ="2">
+    <name>30, 30</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,30,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="3" type ="2">
+    <name>30, 60</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,60,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="4" type ="2">
+    <name>30, 90</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,90,0</coordinates>
+    </Point>
+  </Placemark>
+  
+   <Placemark id="5" type ="2">
+    <name>30, 120</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,120,0</coordinates>
+    </Point>
+  </Placemark>
+  
+    <Placemark id="6" type ="2">
+    <name>30, 150</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,150,0</coordinates>
+    </Point>
+  </Placemark>
+  
+   <Placemark id="7" type ="2">
+    <name>30, 180</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>30,180,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="8" type ="1">
+    <name>0, 180</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,180,0</coordinates>
+    </Point>
+  </Placemark>
+  
+    <Placemark id="9" type ="1">
+    <name>0, 30</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,30,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="10" type ="1">
+    <name>0, 60</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,60,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="11" type ="1">
+    <name>0, 90</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,90,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="12" type ="1">
+    <name>0, 120</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,120,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="13" type ="1">
+    <name>0, 150</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,150,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="14" type ="3">
+    <name>New York City</name>
+    <description>sample.flv</description>
+    <Point>
+      <coordinates>40.7833,-73.9667,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="15" type ="3">
+    <name>Rome</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>41.9,12.45,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="16" type ="3">
+    <name>New Delhi</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>28.5833,77.2,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="17" type ="3">
+    <name>Honolulu</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>21.316667,-157.866667,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="18" type ="3">
+    <name>Tokyo</name>
+    <description>sample.flv</description>
+    <Point>
+      <coordinates>35.6667,139.75,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="19" type ="3">
+    <name>Johannesburg</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>-26.2,28.0667,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="20" type ="3">
+    <name>Paris</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>48.8,2.3333,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="21" type ="3">
+    <name>San Francisco</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>37.7833,-122.4333,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="22" type ="3">
+    <name>Portland</name>
+    <description>sample.flv</description>
+    <Point>
+      <coordinates>45.6,-122.6,0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+

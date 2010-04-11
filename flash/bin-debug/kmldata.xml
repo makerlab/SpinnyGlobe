@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Placemark id="0" type ="1">
+    <name>Zero point: 0, 0, 0</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>0,0,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="1" type ="2">
+    <name>New York City</name>
+    <description>sample.flv</description>
+    <Point>
+      <coordinates>40.7833,-73.9667,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark id="2" type ="3">
+    <name>Rome</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>41.9,12.45,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="3" type ="4">
+    <name>New Delhi</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>28.5833,77.2,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="4" type ="1">
+    <name>Honolulu</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>21.316667,157.866667,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="5" type ="2">
+    <name>Tokyo</name>
+    <description>sample.flv</description>
+    <Point>
+      <coordinates>35.6667,139.75,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="6" type ="3">
+    <name>Johannesburg</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>-26.2,28.0667,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="7" type ="4">
+    <name>Paris</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>48.8,2.3333,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="8" type ="1">
+    <name>San Francisco</name>
+    <description>sample.html</description>
+    <Point>
+      <coordinates>37.7833,-122.4333,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="9" type ="2">
+    <name>Portland</name>
+    <description>sample.flv</description>
+    <Point>
+      <coordinates>45.6,-122.6,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="10" type ="1">
+    <name>Milk River</name>
+    <description>milkriver.html</description>
+    <Point>
+      <coordinates>49.1333,-112.05,0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+
